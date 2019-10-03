@@ -1,7 +1,7 @@
 #!/bin/bash
 
 directory="$(pwd)"
-predix="/usr"
+prefix="/usr"
 echo
 echo -e "\e[93mThis script will install ADB & FastBoot Tools in Aidlearning."
 echo
